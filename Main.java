@@ -1,9 +1,6 @@
 class Main {
-
-	public static void main(String[] args){
-	    // line2	
+	public static void main(Integer[] args){
+	    System.out.println();	
 	}
-
 }
-//lastfileline
-//line3
+
